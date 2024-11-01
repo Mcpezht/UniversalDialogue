@@ -8,7 +8,7 @@ Arguments:\
 -title <string>: Set the title of the dialogue box.\
 -text <string>: Set the content of the dialogue box.\
 -icon <string> [information, error, warning, question]: Set the icon of the dialogue box.\
--form <type> [messagebox, winforms]: Set the form type. WinForms will always on top.\
+-form <type> [messagebox, winforms]: Set the form type. WinForms will always on top.
 
 ---
 
