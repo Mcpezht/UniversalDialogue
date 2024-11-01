@@ -1,4 +1,8 @@
 # UniversalDialogue
+**→[中文](https://github.com/Mcpezht/UniversalDialogue/blob/master/README_zh-cn.md)←**
+
+---
+
 Show custom dialogue box using *-title -text -icon -form*.\
 **REQUIRE .NET 8.0**
 
