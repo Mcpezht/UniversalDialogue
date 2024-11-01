@@ -5,9 +5,9 @@
 ---
 
 参数：
-·title <string>：设置对话框的标题。
--text <string>：设置对话框的内容。
--icon <string> [information, error, warning, question]：设置对话框的图标。
+-title <string>：设置对话框的标题。\
+-text <string>：设置对话框的内容。\
+-icon <string> [information, error, warning, question]：设置对话框的图标。\
 -form <type> [messagebox， winforms]：设置窗体类型。WinForms 将置顶。
 
 ---
